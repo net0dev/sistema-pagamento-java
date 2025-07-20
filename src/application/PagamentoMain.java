@@ -8,16 +8,7 @@ public class PagamentoMain {
     public static void main(String[] args){
         Locale.setDefault(Locale.US);
 
-  //Pagamento b1 = new PagamentoBoleto();
-  //Pagamento c1 = new PagamentoCartao();
-  //Pagamento p1 = new PagamentoPix();
 
-
- // b1.realizarPagamento(993.32);
-
- // c1.realizarPagamento(1050.56);
-
- //p1.realizarPagamento(70000.0);
 
  Pagamento[] pagamentos = { 
     new PagamentoBoleto(),
