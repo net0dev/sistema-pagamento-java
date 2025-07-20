@@ -1,18 +1,11 @@
-## Getting Started
+# 💻Projeto: Sistema de pagamentos em java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-## Folder Structure
+Este é um projeto simples em java que que utiliza o conceito de **Programação Orientada a Objetos(POO)**, como o **polimorfismo**.
 
-The workspace contains two folders by default, where:
+## ✅Objetivo
+Demonstrar, de forma prática e simples, como o polimorfismo funciona em diferentes tipos de pagamentos(Boleto, cartão e Pix).
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## 🛠️Linguagens e ferramentas
+-Java 
+-VSCode
