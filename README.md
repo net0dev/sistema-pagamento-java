@@ -12,8 +12,8 @@ Demonstrar, de forma prática e simples, como o polimorfismo funciona em diferen
 - VScode
 
 
-src/
-```└-- entities/```
+```src/
+└-- entities/
     ├── Pagamento.java            # Classe base
     ├── PagamentoPix.java         # Subclasse - pagamento via PIX
     ├── PagamentoCartao.java      # Subclasse - pagamento via Cartão
@@ -21,4 +21,4 @@ src/
 
 
 Main.java                         # Classe principal com execução do programa
-
+```
