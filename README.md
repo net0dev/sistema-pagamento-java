@@ -12,10 +12,8 @@ Demonstrar, de forma prática e simples, como o polimorfismo funciona em diferen
 
 src/
  ├──  entities/
- |       ├── Pagamento.java            
- |       ├── PagamentoPix.java         
- |       ├── PagamentoCartao.java     
- |       └── PagamentoBoleto.java      
+ |       ├── Pagamento.java 
+ |       ├──  #Subclasses
  └──  application/
           └── Main.java      
 
