@@ -4,9 +4,6 @@ Este é um projeto simples em java que que utiliza o conceito de **Programação
 ## ✅Objetivo
 Demonstrar, de forma prática e simples, como o polimorfismo funciona em diferentes tipos de pagamentos(Boleto, cartão e Pix).
 
-## 🛠️Linguagens e ferramentas
-- Java
-- VScode
 ## 🗂️Estrutura do projeto
 src/
 ├── entities/
@@ -14,7 +11,6 @@ src/
 |    ├── PagamentoPix.java         # Subclasse - pagamento via PIX
 |    ├── PagamentoCartao.java      # Subclasse - pagamento via Cartão
 |    ├── PagamentoBoleto.java      # Subclasse - pagamento via Boleto
-| 
 |
 └── application/
      └──Main.java                  # Classe que executa o programa
