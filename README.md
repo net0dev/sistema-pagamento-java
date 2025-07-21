@@ -7,8 +7,7 @@ Demonstrar, de forma prática e simples, como o polimorfismo funciona em diferen
 ## 🛠️Linguagens e ferramentas
 - Java
 - VSCode
-
-
+  
 ## 🗂️Estrutura do projeto
 src/
 ├── entities/
@@ -18,5 +17,5 @@ src/
 |    ├── PagamentoBoleto.java      
 |
 └── application/
-     └──Main.java                  # Classe que executa o programa
+     └──Main.java      
 
