@@ -9,11 +9,11 @@ Demonstrar, de forma prática e simples, como o polimorfismo funciona em diferen
 - VSCode
   
 ## 🗂️Estrutura do projeto
-
 src/
- ├──  entities/
- |       ├── Pagamento.java 
- |       ├──  #Subclasses
- └──  application/
-          └── Main.java      
-
+├── entities/
+│ ├── Pagamento.java
+│ ├── PagamentoPix.java
+│ ├── PagamentoCartao.java
+│ └── PagamentoBoleto.java
+└── application/
+     └── PagamentoMain.java
