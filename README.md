@@ -11,14 +11,15 @@ Demonstrar, de forma prática e simples, como o polimorfismo funciona em diferen
 - Java
 - VScode
 
-
+## 🗂️Estrutura do projeto
 src/
-└---entities/
-    ├── Pagamento.java            # Classe base
-    ├── PagamentoPix.java         # Subclasse - pagamento via PIX
-    ├── PagamentoCartao.java      # Subclasse - pagamento via Cartão
-    ├── PagamentoBoleto.java      # Subclasse - pagamento via Boleto
-
-
-Main.java                         # Classe principal com execução do programa
+├── entities/
+|    ├── Pagamento.java            # Superclasse
+|    ├── PagamentoPix.java         # Subclasse - pagamento via PIX
+|    ├── PagamentoCartao.java      # Subclasse - pagamento via Cartão
+|    ├── PagamentoBoleto.java      # Subclasse - pagamento via Boleto
+| 
+|
+└── application/
+     └──Main.java                  # Classe que executa o programa
 
