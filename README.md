@@ -18,7 +18,7 @@ src/
 |    |--- PagamentoCartao.java
 |    |___ PagamentoPix.java
 |
-|___ applilcation/
+|___ application/
         |___ PagamentoMain.java
 
 ```
