@@ -12,12 +12,13 @@ Demonstrar, de forma prática e simples, como o polimorfismo funciona em diferen
 
  ```
 src/
-├── entities/
-|    ├── Pagamento.java
-|    ├── PagamentoBoleto.java
-|    ├── PagamentoCartao.java
-|    └── PagamentoPix.java
+|---entities/
+|    |--- Pagamento.java
+|    |--- PagamentoBoleto.java
+|    |--- PagamentoCartao.java
+|    |___ PagamentoPix.java
 |
-└── application/
-      └── PagamentoMain.java
+|___ applilcation/
+        |___ PagamentoMain.java
+
 ```
